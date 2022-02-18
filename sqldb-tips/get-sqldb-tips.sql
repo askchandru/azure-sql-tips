@@ -1,7 +1,7 @@
 /*
 Returns a set of tips to improve database design, health, and performance in Azure SQL Database.
 For the latest version of the script, see https://aka.ms/sqldbtips
-For a detailed description, see https://aka.ms/sqldbtipswikis
+For a detailed description, see https://aka.ms/sqldbtipswiki
 */
 
 -- Set to 1 to output tips as a JSON value
